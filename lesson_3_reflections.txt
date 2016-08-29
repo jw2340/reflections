@@ -14,3 +14,13 @@ What is the benefit of having a copy of the last known state of the remote store
 
 You can see what you pushed/pulled most recently. You can also find what others have added
 to the remote easily.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I might use Google Drive. Editing documents and notifying others of changes might still be easy.
+It would be difficult to make different versions of the same file or merging different versions.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If you want someone to look over your changes before merging into master. This allows someone
+to double-check your work and give you feedback.
